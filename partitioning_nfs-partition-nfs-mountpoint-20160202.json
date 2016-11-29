@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 292,
+      "ypos": 301,
+      "width": 441,
+      "height": 126,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-nfs-mountpoint"
+  ]
+}

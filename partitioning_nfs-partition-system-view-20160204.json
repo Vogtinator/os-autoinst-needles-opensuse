@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "height": 135,
+      "width": 179,
+      "xpos": 25,
+      "ypos": 60,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "partition-system-view"
+  ]
+}

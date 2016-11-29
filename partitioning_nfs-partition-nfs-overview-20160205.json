@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-nfs-overview"
+  ],
+  "area": [
+    {
+      "xpos": 314,
+      "ypos": 144,
+      "width": 205,
+      "height": 30,
+      "type": "match"
+    }
+  ]
+}

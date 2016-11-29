@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "tags": [
+    "partition-part-edit"
+  ],
+  "area": [
+    {
+      "xpos": 15,
+      "ypos": 92,
+      "width": 199,
+      "height": 44,
+      "type": "match"
+    }
+  ]
+}
