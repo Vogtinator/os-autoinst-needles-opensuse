@@ -1,0 +1,15 @@
+{
+  "tags": [
+    "plasma_logout_btn"
+  ],
+  "area": [
+    {
+      "xpos": 14,
+      "ypos": 608,
+      "width": 29,
+      "height": 31,
+      "type": "match"
+    }
+  ],
+  "properties": []
+}
